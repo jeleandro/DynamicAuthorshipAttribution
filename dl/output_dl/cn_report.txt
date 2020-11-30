@@ -1,0 +1,247 @@
+\begin{tabular}{llr}
+\toprule
+         & model &   CNN \\
+dataset & problem &       \\
+\midrule
+lyrics & problem00001 &  0.52 \\
+         & problem00002 &  0.23 \\
+         & problem00003 &  0.16 \\
+         & problem00004 &  0.09 \\
+         & problem00005 &  0.07 \\
+         & problem00006 &  0.30 \\
+         & problem00007 &  0.21 \\
+         & problem00008 &  0.18 \\
+         & problem00009 &  0.17 \\
+         & problem00010 &  0.12 \\
+pan18\_eval & problem00001 &  0.28 \\
+         & problem00002 &  0.31 \\
+         & problem00003 &  0.27 \\
+         & problem00004 &  0.60 \\
+         & problem00005 &  0.12 \\
+         & problem00006 &  0.43 \\
+         & problem00007 &  0.37 \\
+         & problem00008 &  0.34 \\
+         & problem00009 &  0.36 \\
+         & problem00010 &  0.42 \\
+         & problem00011 &  0.38 \\
+         & problem00012 &  0.27 \\
+         & problem00013 &  0.30 \\
+         & problem00014 &  0.34 \\
+         & problem00015 &  0.22 \\
+         & problem00016 &  0.41 \\
+         & problem00017 &  0.21 \\
+         & problem00018 &  0.29 \\
+         & problem00019 &  0.54 \\
+         & problem00020 &  0.51 \\
+pan18\_train & problem00001 &  0.34 \\
+         & problem00002 &  0.49 \\
+         & problem00003 &  0.29 \\
+         & problem00004 &  0.38 \\
+         & problem00005 &  0.26 \\
+         & problem00006 &  0.36 \\
+         & problem00007 &  0.19 \\
+         & problem00008 &  0.68 \\
+         & problem00009 &  0.30 \\
+         & problem00010 &  0.45 \\
+socialaa & problem00001 &  0.07 \\
+         & problem00002 &  0.08 \\
+         & problem00003 &  0.02 \\
+         & problem00004 &  0.02 \\
+         & problem00005 &  0.01 \\
+         & problem00006 &  0.01 \\
+         & problem00007 &  0.00 \\
+         & problem00008 &  0.00 \\
+         & problem00009 &  0.07 \\
+         & problem00010 &  0.30 \\
+         & problem00011 &  0.47 \\
+         & problem00012 &  0.28 \\
+         & problem00013 &  0.28 \\
+         & problem00014 &  0.47 \\
+         & problem00015 &  0.08 \\
+         & problem00016 &  0.64 \\
+         & problem00017 &  0.60 \\
+         & problem00018 &  0.18 \\
+         & problem00019 &  0.29 \\
+         & problem00020 &  0.38 \\
+         & problem00021 &  0.04 \\
+         & problem00022 &  0.04 \\
+         & problem00023 &  0.33 \\
+         & problem00024 &  0.06 \\
+         & problem00025 &  0.13 \\
+         & problem00026 &  0.20 \\
+         & problem00027 &  0.01 \\
+         & problem00028 &  0.03 \\
+         & problem00029 &  0.04 \\
+         & problem00030 &  0.01 \\
+         & problem00031 &  0.03 \\
+         & problem00032 &  0.02 \\
+\bottomrule
+\end{tabular}
+
+
+\begin{tabular}{llr}
+\toprule
+     dataset & language &   CNN \\
+\midrule
+      lyrics &       en &  0.20 \\
+      lyrics &       pt &  0.22 \\
+  pan18\_eval &       en &  0.37 \\
+  pan18\_eval &       fr &  0.31 \\
+  pan18\_eval &       it &  0.36 \\
+  pan18\_eval &       pl &  0.32 \\
+  pan18\_eval &       sp &  0.39 \\
+ pan18\_train &       en &  0.42 \\
+ pan18\_train &       fr &  0.33 \\
+ pan18\_train &       it &  0.31 \\
+ pan18\_train &       pl &  0.43 \\
+ pan18\_train &       sp &  0.37 \\
+    socialaa &       en &  0.16 \\
+\bottomrule
+\end{tabular}
+
+
+\begin{tabular}{lrr}
+\toprule
+     dataset &  ndocs &   CNN \\
+\midrule
+      lyrics &     23 &  0.12 \\
+      lyrics &     24 &  0.09 \\
+      lyrics &     25 &  0.29 \\
+      lyrics &     26 &  0.22 \\
+      lyrics &     29 &  0.30 \\
+  pan18\_eval &      7 &  0.35 \\
+ pan18\_train &      7 &  0.37 \\
+    socialaa &     10 &  0.17 \\
+    socialaa &     50 &  0.15 \\
+\bottomrule
+\end{tabular}
+
+
+\begin{tabular}{lrr}
+\toprule
+     dataset &  nauthors &   CNN \\
+\midrule
+      lyrics &         5 &  0.41 \\
+      lyrics &        10 &  0.22 \\
+      lyrics &        15 &  0.17 \\
+      lyrics &        20 &  0.13 \\
+      lyrics &        25 &  0.10 \\
+  pan18\_eval &         5 &  0.43 \\
+  pan18\_eval &        10 &  0.36 \\
+  pan18\_eval &        15 &  0.36 \\
+  pan18\_eval &        20 &  0.25 \\
+ pan18\_train &         5 &  0.47 \\
+ pan18\_train &        20 &  0.27 \\
+    socialaa &         5 &  0.25 \\
+    socialaa &        10 &  0.28 \\
+    socialaa &        20 &  0.10 \\
+    socialaa &        50 &  0.02 \\
+\bottomrule
+\end{tabular}
+
+
+\begin{tabular}{lrr}
+\toprule
+     dataset &  nchar &   CNN \\
+\midrule
+      lyrics &   1050 &  0.16 \\
+      lyrics &   1060 &  0.52 \\
+      lyrics &   1080 &  0.23 \\
+      lyrics &   1120 &  0.09 \\
+      lyrics &   1170 &  0.07 \\
+      lyrics &   1280 &  0.30 \\
+      lyrics &   1340 &  0.12 \\
+      lyrics &   1430 &  0.19 \\
+      lyrics &   1450 &  0.18 \\
+  pan18\_eval &   4310 &  0.34 \\
+  pan18\_eval &   4390 &  0.37 \\
+  pan18\_eval &   4410 &  0.12 \\
+  pan18\_eval &   4420 &  0.43 \\
+  pan18\_eval &   4430 &  0.31 \\
+  pan18\_eval &   4440 &  0.28 \\
+  pan18\_eval &   4470 &  0.27 \\
+  pan18\_eval &   4660 &  0.60 \\
+  pan18\_eval &   4680 &  0.21 \\
+  pan18\_eval &   4700 &  0.27 \\
+  pan18\_eval &   4740 &  0.36 \\
+  pan18\_eval &   4750 &  0.54 \\
+  pan18\_eval &   4820 &  0.36 \\
+  pan18\_eval &   4880 &  0.51 \\
+  pan18\_eval &   4960 &  0.38 \\
+  pan18\_eval &   5080 &  0.22 \\
+  pan18\_eval &   5180 &  0.30 \\
+  pan18\_eval &   5240 &  0.41 \\
+  pan18\_eval &   5260 &  0.34 \\
+ pan18\_train &   4290 &  0.49 \\
+ pan18\_train &   4370 &  0.34 \\
+ pan18\_train &   4500 &  0.29 \\
+ pan18\_train &   4530 &  0.38 \\
+ pan18\_train &   4760 &  0.36 \\
+ pan18\_train &   4780 &  0.28 \\
+ pan18\_train &   4820 &  0.45 \\
+ pan18\_train &   5200 &  0.19 \\
+ pan18\_train &   5210 &  0.68 \\
+    socialaa &     40 &  0.02 \\
+    socialaa &     50 &  0.05 \\
+    socialaa &     60 &  0.01 \\
+    socialaa &     70 &  0.03 \\
+    socialaa &    130 &  0.07 \\
+    socialaa &    140 &  0.04 \\
+    socialaa &    150 &  0.07 \\
+    socialaa &    170 &  0.28 \\
+    socialaa &    270 &  0.04 \\
+    socialaa &    280 &  0.12 \\
+    socialaa &    290 &  0.36 \\
+    socialaa &    310 &  0.28 \\
+    socialaa &    520 &  0.47 \\
+    socialaa &    530 &  0.23 \\
+    socialaa &    540 &  0.34 \\
+\bottomrule
+\end{tabular}
+
+
+\begin{tabular}{lrr}
+\toprule
+     dataset &  nword &   CNN \\
+\midrule
+      lyrics &    210 &  0.34 \\
+      lyrics &    215 &  0.23 \\
+      lyrics &    220 &  0.09 \\
+      lyrics &    230 &  0.07 \\
+      lyrics &    275 &  0.30 \\
+      lyrics &    285 &  0.12 \\
+      lyrics &    305 &  0.21 \\
+      lyrics &    310 &  0.18 \\
+  pan18\_eval &    765 &  0.22 \\
+  pan18\_eval &    780 &  0.30 \\
+  pan18\_eval &    785 &  0.37 \\
+  pan18\_eval &    790 &  0.12 \\
+  pan18\_eval &    795 &  0.40 \\
+  pan18\_eval &    800 &  0.27 \\
+  pan18\_eval &    810 &  0.36 \\
+  pan18\_eval &    815 &  0.26 \\
+  pan18\_eval &    820 &  0.27 \\
+  pan18\_eval &    825 &  0.34 \\
+  pan18\_eval &    830 &  0.54 \\
+  pan18\_eval &    840 &  0.51 \\
+  pan18\_eval &    850 &  0.60 \\
+ pan18\_train &    775 &  0.68 \\
+ pan18\_train &    780 &  0.19 \\
+ pan18\_train &    795 &  0.42 \\
+ pan18\_train &    800 &  0.36 \\
+ pan18\_train &    810 &  0.26 \\
+ pan18\_train &    820 &  0.29 \\
+ pan18\_train &    825 &  0.38 \\
+ pan18\_train &    830 &  0.37 \\
+    socialaa &     10 &  0.02 \\
+    socialaa &     15 &  0.03 \\
+    socialaa &     20 &  0.01 \\
+    socialaa &     30 &  0.06 \\
+    socialaa &     35 &  0.17 \\
+    socialaa &     55 &  0.29 \\
+    socialaa &     60 &  0.19 \\
+    socialaa &     65 &  0.30 \\
+    socialaa &    105 &  0.38 \\
+    socialaa &    110 &  0.25 \\
+\bottomrule
+\end{tabular}
